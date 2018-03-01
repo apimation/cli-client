@@ -1,7 +1,7 @@
 # apimation/cli-client
 
 ### Binaries:
-[Download](https://github.com/dlocmelis/apimation-cli-client/releases/latest)
+[Download](https://github.com/apimation/cli-client/releases/latest)
 
 ### First usage of apimation-cli-client with existing apimation account:
 ##
