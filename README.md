@@ -3,6 +3,18 @@
 ### Binaries:
 [Download](https://github.com/apimation/cli-client/releases/latest)
 
+### Install with brew:
+```
+# register apimation brew tap
+brew tap apimation/brew-taps git@github.com:apimation/brew-taps.git
+
+# update brew to update apimation brew tap
+brew update
+
+# install latest apimation version
+brew install apimation
+```
+
 ### First usage of apimation-cli-client with existing apimation account:
 ##
 0. It is recommended to create an alias for cli client, like in this example:
