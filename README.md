@@ -1,7 +1,7 @@
 # Apimation CLI client
 
 ### WIKI
-[Documentation](wiki.apimation.com)
+[Documentation](https://wiki.apimation.com)
 
 ### Binaries:
 [Download](https://github.com/apimation/cli-client/releases/latest)
